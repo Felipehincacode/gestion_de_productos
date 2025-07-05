@@ -6,7 +6,7 @@ This is a cute, rounded, and friendly inventory management app for Mercados La C
 - Add, edit, delete, and search products in a friendly UI
 - Data is stored in `db.json` and served via JSON Server
 - Animations and rounded, soft design
-- All code is commented in English for easy understanding
+- All code is commented in English 
 
 ## Getting Started
 
