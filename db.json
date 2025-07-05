@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "name": "Bistec de Res 500g",
+      "price": 6.75,
+      "category": "Carnes",
+      "description": "Bistec de res fresco, ideal para asar."
+    }
+  ]
+}
